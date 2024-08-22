@@ -3,6 +3,10 @@
 ## Knowledge Base
 1. Apa yang Anda ketahui tentang Data Engineer ?
 2. Ceritakan pengalaman Anda dalam mengolah data?
+3. Apa yang kamu ketahui tentang AI
+4. Mengapa Data menjadi sesuatu yang sangat penting sekarang, dan apa dampak dari kebocoran data
+5. Apa yg anda ketahui mengenai model generative AI ? da apa saja penerapannya
+
 
 ## Soal Coding
 studi kasus = 
