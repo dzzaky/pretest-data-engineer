@@ -17,3 +17,6 @@ dan silahkan lakukan proses dibawah ini:
 
 1. satu flows untuk proses data cleansing dimana bersihkan data reviewnya kemudian export ke csv
 2. satu flows untuk proses menghitung sentiment analysis berdasarkan kolom rating
+
+Keterangan :
+flow kestra dan script python sertakan dalam git kalian ketika pelaporan
