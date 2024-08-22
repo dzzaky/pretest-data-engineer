@@ -14,4 +14,4 @@ banjir json berisi data post twitter mengenai banjir dki jakarta
 
 silahkan akses url ini [Kestra](https://kestra-magang.t-dev.site/) - https://kestra-magang.t-dev.site/ untuk lakukan proses dibawah ini:
 1. satu proses untuk data cleansing dimana bersihkan data dari banjir.json dan postnya export ke csv
-2. satu proses untuk menghitung berapa banyak kata DKI dalam banjir.json
+2. satu proses untuk menghitung sentiment analysis dari banjir.json menggunakan scikit-learn.
