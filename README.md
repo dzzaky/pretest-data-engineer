@@ -7,6 +7,11 @@
 4. Mengapa Data menjadi sesuatu yang sangat penting sekarang, dan apa dampak dari kebocoran data
 5. Apa yg anda ketahui mengenai model generative AI ? da apa saja penerapannya
 
+1. Data engineer adalah salah satu profesi IT yang bertugas merancang, membangun, dan mengelola sistem yang memproses data dalam jumlah besar
+2. Saya pernah memiliki pengalaman dalam mengelola data saat saya semester 4 dalam mata kuliah Permodelan dan Implementasi basis data, saya mendapat tugas kelompok untuk membuat suatu database yang berhubungan dengan peminjaman buku, kemudian kami diperintahkan untuk mengelola datanya melalui penggunaan query SQL
+3. AI merupakan mesin yang dapat melakukan sebuah tugas yang memerlukan kecerdasan manusia secara otomatis
+4. Data sangat dibutuhkan karena berperan penting dalam pengambilan keputusan, inovasi, dan efisiensi pada berbagai bidang. Kebocoran data menimbulkan kerugian yang sangat besar, contoh dampaknya adalah kerugian finansial, kehilangan kepercayaan, dan juga penyalahgunaan identitas
+5. Generative AI merupakan mesin pintar yang dapat menghasilkan suatu konten. Salah satu contoh penerapannya yaitu pembuatan gambar 
 
 ## Soal Coding
 studi kasus = 
